@@ -7,3 +7,5 @@ Feature Toggles to turn a feature on or off within your app
 fileName.module.css is scoped and transpiled by NextJS
 
 i18N Transpilation Interpolation of Dynamic data
+
+Jest Test i18n next translations by wrapping component and providing customer wrapper
