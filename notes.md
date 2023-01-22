@@ -9,3 +9,5 @@ fileName.module.css is scoped and transpiled by NextJS
 i18N Transpilation Interpolation of Dynamic data
 
 Jest Test i18n next translations by wrapping component and providing customer wrapper
+
+Linked List is a class that holds a class of nodes with next and val properties and push, unshift, get, pop, remove, replace methods
