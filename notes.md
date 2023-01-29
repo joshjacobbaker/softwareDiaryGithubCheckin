@@ -16,3 +16,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Relative-and-Absolute CSS positioning trying to breakout of a flex container]("")
 [Box-Shadow in CSS for depth, perspective, transform & transition, pseudo-elements, transition-delay on base element applies to ALL events and on one event applies to itself]("")
 [a:before {content: attr(data-text)}... <div data-text="Hello World" />]("")
+[flex flex-grow flex-shrink flex-basis main-minor axis flow-row flow-col justify-content flex-start flex-end space-between space-around align-items stretch center]("")
