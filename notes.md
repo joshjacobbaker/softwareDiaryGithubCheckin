@@ -19,3 +19,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [flex flex-grow flex-shrink flex-basis main-minor axis flow-row flow-col justify-content flex-start flex-end space-between space-around align-items stretch center]("")
 [git rebase main devBranch]("")
 [Nx dependency graph, custom jira dashboard, stephen grider new react testing course]("")
+[Jira tickets, sprints, boards, status, blockers]("")
