@@ -21,3 +21,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Nx dependency graph, custom jira dashboard, stephen grider new react testing course]("")
 [Jira tickets, sprints, boards, status, blockers]("")
 [Scrum vs Kanban JIRA boards]("")
+[HTTP Headers JWT Token Bearer]("")
