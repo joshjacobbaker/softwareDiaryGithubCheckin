@@ -24,3 +24,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [HTTP Headers JWT Token Bearer]("")
 [JWT into Cookie, cookie to server via header, server validate logic via cookie & JWT]("")
 [prototype, class inheritance, curried functions, function properties like name & length, decorators]("")
+[Interactive Git Rebase to change commit history]("")
