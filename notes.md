@@ -27,3 +27,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Interactive Git Rebase to change commit history]("")
 [Git reflog to recover rebase or removed git history, alias git config commands, ]("")
 [Cypress & Jest RTL Courses for Integration & Component Testing]("")
+[Cypress Fixtures for mock test data: api, translations, assertion]("")
