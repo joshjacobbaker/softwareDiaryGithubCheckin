@@ -29,3 +29,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Cypress & Jest RTL Courses for Integration & Component Testing]("")
 [Cypress Fixtures for mock test data: api, translations, assertion]("")
 [FreeCodeCamp System Design]("https://www.youtube.com/watch?v=m8Icp_Cid5o&t=1s")
+[Docker & Kubernetes Course: Kubernetes for Container Orchestration, not hardware allocation--you'll need to interface with cloud api via terraform or sdk to allocate hardware for Kubernetes to operate in and spin up resources on]("https://www.udemy.com/course/docker-kubernetes-the-practical-guide/learn/lecture/22627603#overview")
