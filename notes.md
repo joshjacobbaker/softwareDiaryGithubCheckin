@@ -30,3 +30,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Cypress Fixtures for mock test data: api, translations, assertion]("")
 [FreeCodeCamp System Design]("https://www.youtube.com/watch?v=m8Icp_Cid5o&t=1s")
 [Docker & Kubernetes Course: Kubernetes for Container Orchestration, not hardware allocation--you'll need to interface with cloud api via terraform or sdk to allocate hardware for Kubernetes to operate in and spin up resources on]("https://www.udemy.com/course/docker-kubernetes-the-practical-guide/learn/lecture/22627603#overview")
+[Kubernetes: kubectl is similar to docker; you can run imperative and declarative commands with the cli; kubectl apply -f=deployment.yaml is declarative, where kubernetes configuration is within the deployment.yaml file]("")
