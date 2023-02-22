@@ -34,3 +34,6 @@ Linked List is a class that holds a class of nodes with next and val properties 
 []("")
 [Kubernetes Volumes to store Files outside of the ephemeral pods with drivers]("")
 [docker-compose can be used to simulate microservices in the local environment, but Kubernetes is needed in production]("")
+[Aws Amplify]("")
+[Aws Lambda]("")
+[Aws App Sync]("")
