@@ -37,3 +37,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Aws Amplify]("")
 [Aws Lambda]("")
 [Aws App Sync]("")
+[React Aws Amplify w/lambda ]("https://www.youtube.com/watch?v=T4MQrRDo20w")
