@@ -40,3 +40,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [React Aws Amplify w/lambda rest api ]("https://www.youtube.com/watch?v=T4MQrRDo20w")
 [React Aws Amplify w/ graphql api]("https://www.youtube.com/watch?v=kqi4gPfdVHY")
 [React Aws Amplify and AppSync (not really seeing the AppSync...)]("https://www.youtube.com/watch?v=OK2B8cp1EyE")
+[React Cypress E2e in CICD]("https://www.youtube.com/watch?v=4_WoZfiVaKM")
