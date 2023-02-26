@@ -43,3 +43,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [React Cypress E2e in CICD]("https://www.youtube.com/watch?v=4_WoZfiVaKM")
 [Kubernetes Etcd is a key-value database store that holds the current and active states]("")
 [Kubernetes: replicas=number of pods; selector=type of pods; template=pod specification]("")
+[AbortController Promise.race([promise1, promise2]) to free up IO on client-and-server sides ]("https://www.youtube.com/watch?v=TBz_yq8h2sI")
