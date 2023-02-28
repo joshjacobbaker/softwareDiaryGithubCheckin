@@ -44,3 +44,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Kubernetes Etcd is a key-value database store that holds the current and active states]("")
 [Kubernetes: replicas=number of pods; selector=type of pods; template=pod specification]("")
 [AbortController Promise.race([promise1, promise2]) to free up IO on client-and-server sides ]("https://www.youtube.com/watch?v=TBz_yq8h2sI")
+[Kubernetes configMap vs Secret--both allow for clean environment variable declaration, but Secret obfuscates values while configMap is in plaintext... However, you can obfuscate values via base64 cli command]("https://www.youtube.com/watch?v=s_o8dwzRlu4&t=4s")
