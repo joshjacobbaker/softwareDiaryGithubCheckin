@@ -47,3 +47,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Kubernetes configMap vs Secret--both allow for clean environment variable declaration, but Secret obfuscates values while configMap is in plaintext... However, you can obfuscate values via base64 cli command]("https://www.youtube.com/watch?v=s_o8dwzRlu4&t=4s")
 [Jenkins vs GitLab CICD vs CircleCI vs TravisCI... AWS CICD]("https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/")
 [Aws CDK compiles to CloudFormation or Terraform]("https://www.youtube.com/watch?v=nlb8yo7SZ2I")
+[AWS Services & Architecture overview]("https://youtu.be/FDEpdNdFglI")
