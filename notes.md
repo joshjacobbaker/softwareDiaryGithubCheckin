@@ -48,3 +48,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Jenkins vs GitLab CICD vs CircleCI vs TravisCI... AWS CICD]("https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/")
 [Aws CDK compiles to CloudFormation or Terraform]("https://www.youtube.com/watch?v=nlb8yo7SZ2I")
 [AWS Services & Architecture overview]("https://youtu.be/FDEpdNdFglI")
+[5 things you need to know to be a backend developer -- CodeDamn]("https://www.youtube.com/watch?v=ack9Eb7Hvqk")
