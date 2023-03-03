@@ -50,3 +50,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [AWS Services & Architecture overview]("https://youtu.be/FDEpdNdFglI")
 [5 things you need to know to be a backend developer -- CodeDamn]("https://www.youtube.com/watch?v=ack9Eb7Hvqk")
 [HTTP Streaming]("https://www.youtube.com/watch?v=CiGnubZC5cs")
+[Full Stack Build: Node, Postgres, Redis, React, GraphQL/Apollo]("https://www.youtube.com/watch?v=Xisj0FJSBIs")
