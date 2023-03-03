@@ -49,3 +49,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Aws CDK compiles to CloudFormation or Terraform]("https://www.youtube.com/watch?v=nlb8yo7SZ2I")
 [AWS Services & Architecture overview]("https://youtu.be/FDEpdNdFglI")
 [5 things you need to know to be a backend developer -- CodeDamn]("https://www.youtube.com/watch?v=ack9Eb7Hvqk")
+[HTTP Streaming]("https://www.youtube.com/watch?v=CiGnubZC5cs")
