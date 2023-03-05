@@ -53,3 +53,6 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Full Stack Build: Node, Postgres, Redis, React, GraphQL/Apollo]("https://www.youtube.com/watch?v=Xisj0FJSBIs")
 [Advanced NodeJS Course]("https://www.youtube.com/watch?v=qG-PLm3APSs")
 [Reactive Variables for State Management in Apollo Client]("https://www.apollographql.com/docs/react/local-state/reactive-variables")
+[ACID & CAP Theorem - trade-offs between database features]("")
+[Warming the cache up if it's empty -- will take a while and will be hitting your database during that time]("")
+[Need to work on System Design]("")
