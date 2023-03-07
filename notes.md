@@ -57,3 +57,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Warming the cache up if it's empty -- will take a while and will be hitting your database during that time]("")
 [Need to work on System Design]("")
 [AWS CDK: sudo npm i -g aws-cdk]("https://www.udemy.com/course/aws-typescript-cdk-serverless-react/learn/lecture/27143332#overview")
+[VSCode rest extension to document use of API within the repo via requests.http]("https://marketplace.visualstudio.com/items?itemName=humao.rest-client")
