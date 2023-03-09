@@ -60,3 +60,5 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [VSCode rest extension to document use of API within the repo via requests.http]("https://marketplace.visualstudio.com/items?itemName=humao.rest-client")
 [Use the AWS GUI first to navigate the service, then try out CDK, etc.]("")
 [System Design... Client-Server, Ip TCP HTTP, Database Disk In-Memory]("")
+[Forward & Reverse Proxy, Highly Available nine 9's 99.99...%, Data Storage Graph Blob Time Geographic, Cache hit and miss, ...]("")
+[AWS CDK stacks, level 1 2 3, class extends, aws cdk docs for api, aws console gui for resource verification, codepipeline s3 lambda iam cognito, cdk synth cdk deploy, testing cdk stacks with assertions]("")
