@@ -64,3 +64,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [AWS CDK stacks, level 1 2 3, class extends, aws cdk docs for api, aws console gui for resource verification, codepipeline s3 lambda iam cognito, cdk synth cdk deploy, testing cdk stacks with assertions]("")
 [Canary Test your deployments, have redundant deployments in other regions, green blue deployments, sns alert email notification]("")
 [Publisher-and-Subscriber with Topics, Queues, and messages]("")
+[Compute, Database, Storage, Messaging, Analytics]("")
