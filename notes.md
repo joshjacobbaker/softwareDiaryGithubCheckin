@@ -66,3 +66,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Publisher-and-Subscriber with Topics, Queues, and messages]("")
 [Compute, Database, Storage, Messaging, Analytics]("")
 [Apollo Graph YouTube Channel -- cache, reactive variables, client and server, ]("https://www.youtube.com/@ApolloGraphQL/videos")
+[Apollo Client Reactive Variable @client graphql local state value]("https://www.youtube.com/watch?v=4uGgMemLPjk")
