@@ -72,3 +72,5 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Backend Caching Redis]("https://www.youtube.com/watch?v=bP4BeUjNkXc")
 []("https://www.youtube.com/watch?v=3C_22eBWpjg")
 [Debounce vs Throttle -- Debounce wait 300ms after last event; Throttle every 300ms]("")
+[Apollo Client 3.0]("https://www.youtube.com/watch?v=ou0fEW1eRjc")
+Ctrl + SpaceBar will bring up VScode intellisense
