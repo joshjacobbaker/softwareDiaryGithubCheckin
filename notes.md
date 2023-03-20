@@ -75,3 +75,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 [Apollo Client 3.0]("https://www.youtube.com/watch?v=ou0fEW1eRjc")
 Ctrl + SpaceBar will bring up VScode intellisense
 [NextJS w/@apolloClient Hydrate Cache from server into client]("https://www.youtube.com/watch?v=y34ym0-KZ8A")
+[Apollo client update cache after mutation]("https://www.youtube.com/watch?v=ZhdGLMeXnvI")
