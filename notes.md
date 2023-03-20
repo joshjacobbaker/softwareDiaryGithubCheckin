@@ -76,3 +76,4 @@ Linked List is a class that holds a class of nodes with next and val properties 
 Ctrl + SpaceBar will bring up VScode intellisense
 [NextJS w/@apolloClient Hydrate Cache from server into client]("https://www.youtube.com/watch?v=y34ym0-KZ8A")
 [Apollo client update cache after mutation]("https://www.youtube.com/watch?v=ZhdGLMeXnvI")
+[Deploy NextJS App with PM2 and Nginx and AWS and Domain Name]("https://www.youtube.com/watch?v=IwWQG6lEdQQ&t=6s")
