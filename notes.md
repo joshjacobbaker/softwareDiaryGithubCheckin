@@ -78,3 +78,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Apollo client update cache after mutation]("https://www.youtube.com/watch?v=ZhdGLMeXnvI")
 [Deploy NextJS App with PM2 and Nginx and AWS and Domain Name]("https://www.youtube.com/watch?v=IwWQG6lEdQQ&t=6s")
 [NextJS Apollo Client Cache Hydration BLOG]("https://developers.wpengine.com/blog/apollo-client-cache-rehydration-in-next-js")
+[Cache Field Behavior Apollo Client]("https://www.apollographql.com/docs/react/caching/cache-field-behavior/")
