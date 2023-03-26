@@ -84,3 +84,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [NextJS Dynamic Routes]("https://nextjs.org/docs/routing/dynamic-routes")
 [NextJS Shallow-Routing]("https://nextjs.org/docs/routing/shallow-routing")
 [NextJS Change Url without Refresh]("https://stackoverflow.com/questions/62845014/change-url-without-page-refresh-next-js")
+[NextJS Catch All Routes]("https://www.youtube.com/watch?v=ZHn726VDoIY")
