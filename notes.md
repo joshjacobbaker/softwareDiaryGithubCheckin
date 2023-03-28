@@ -87,3 +87,5 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [NextJS Catch All Routes]("https://www.youtube.com/watch?v=ZHn726VDoIY")
 [NextJS Catch All Routes WITH dynamic path variables AND query parameters ?key=value]("https://www.youtube.com/watch?v=btHsYY8I6Z0")
 [NextJS 12.2 Middleware]("https://www.youtube.com/watch?v=fCA8nnoJrbQ")
+[Material CSS React Web App]("https://mui.com/")
+[Material CSS React Native]("https://reactnativepaper.com/")
