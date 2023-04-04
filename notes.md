@@ -93,3 +93,5 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Document.referrer]("https://developer.mozilla.org/en-US/docs/Web/API/Document/referrer")
 [MUI Best Practices]("https://blog.logrocket.com/definitive-guide-react-material/")
 [Apollo GraphQL Playground]("https://www.apollographql.com/docs/apollo-server/v2/testing/graphql-playground/")
+[Apolo GraphQL Playground Youtube video]("https://www.youtube.com/watch?v=o0UafBL2Vb4")
+[Testing Apollo]("")
