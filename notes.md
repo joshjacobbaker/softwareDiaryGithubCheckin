@@ -95,3 +95,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Apollo GraphQL Playground]("https://www.apollographql.com/docs/apollo-server/v2/testing/graphql-playground/")
 [Apolo GraphQL Playground Youtube video]("https://www.youtube.com/watch?v=o0UafBL2Vb4")
 [Testing Apollo]("")
+[Apollo Reactive Variables as stores of state]("")
