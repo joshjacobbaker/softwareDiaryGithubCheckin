@@ -96,3 +96,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Apolo GraphQL Playground Youtube video]("https://www.youtube.com/watch?v=o0UafBL2Vb4")
 [Testing Apollo]("")
 [Apollo Reactive Variables as stores of state]("")
+[Jenkins CICD Pipelines]("")
