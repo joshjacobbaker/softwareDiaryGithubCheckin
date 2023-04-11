@@ -100,3 +100,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Luxon for Date, Time, Interval and Durations in JavaScript/TypeScript]("https://moment.github.io/luxon/#/")
 [Webpack module bundler & babel javascript transpiler]("https://www.youtube.com/watch?v=h3LpsM42s5o&list=RDLVo9hmjdmJLMU&index=9")
 [Git Aliasing w/Zsh Git aliasing]("https://www.youtube.com/watch?v=SCgBfNnle2c")
+[TypeScript Unions, Discriminating Unions, Intersection Types, Union Exhaustiveness Checking]("https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html")
