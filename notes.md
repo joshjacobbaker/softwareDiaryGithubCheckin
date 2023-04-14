@@ -103,3 +103,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [TypeScript Unions, Discriminating Unions, Intersection Types, Union Exhaustiveness Checking]("https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html")
 [React Testing Library & Jest]("https://www.udemy.com/course/react-testing-library-and-jest/learn/lecture/35701630#overview")
 [Mocking Apollo in Jest]("https://stackoverflow.com/questions/59829676/mocking-apolloclients-client-query-method-with-jest")
+[// eslint-disable-next-line]("")
