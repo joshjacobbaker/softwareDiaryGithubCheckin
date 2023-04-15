@@ -104,3 +104,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [React Testing Library & Jest]("https://www.udemy.com/course/react-testing-library-and-jest/learn/lecture/35701630#overview")
 [Mocking Apollo in Jest]("https://stackoverflow.com/questions/59829676/mocking-apolloclients-client-query-method-with-jest")
 [// eslint-disable-next-line]("")
+[Build React App, save in public folder of served app, add script into 2nd served app to the react app in the public folder and use the id of a div to hydrate the built react app into a component]("")
