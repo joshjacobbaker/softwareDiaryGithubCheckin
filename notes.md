@@ -106,3 +106,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [// eslint-disable-next-line]("")
 [Build React App, save in public folder of served app, add script into 2nd served app to the react app in the public folder and use the id of a div to hydrate the built react app into a component]("")
 [@client directive for local apollo client state, cache policy]("")
+[Optimistic Cache is temporary while completing API request, if API fails, Temp Cache is removed, and Main Cache is returned]("")
