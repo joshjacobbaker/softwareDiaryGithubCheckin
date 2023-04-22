@@ -110,3 +110,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [**APOLLO_STATE**]("https://www.tabnine.com/code/javascript/functions/builtins/Window/___APOLLO_STATE__")
 [Test Custom React Hooks]("https://kentcdodds.com/blog/how-to-test-custom-react-hooks")
 [@testing-library/react-hooks]("https://npmtrends.com/@testing-library/react-hooks")
+[Jest TypeScript Code Coverage]("https://about.codecov.io/blog/measuring-typescript-code-coverage-with-jest-and-github-actions/")
