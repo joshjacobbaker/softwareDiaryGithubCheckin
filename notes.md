@@ -111,3 +111,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Test Custom React Hooks]("https://kentcdodds.com/blog/how-to-test-custom-react-hooks")
 [@testing-library/react-hooks]("https://npmtrends.com/@testing-library/react-hooks")
 [Jest TypeScript Code Coverage]("https://about.codecov.io/blog/measuring-typescript-code-coverage-with-jest-and-github-actions/")
+[Optimistic Update, Update, Cache.Modify, Cache.Evict]("")
