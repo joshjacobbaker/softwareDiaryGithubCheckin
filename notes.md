@@ -114,3 +114,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Optimistic Update, Update, Cache.Modify, Cache.Evict]("")
 [Jest Testing Custom React Hooks]("https://www.youtube.com/watch?v=qRw3qKRBW4M")
 [Mocking Asynchronous API Calls]("https://www.youtube.com/watch?v=gA-uNj2FgdM")
+[Don't Mock Fetch/Axios, but rather us MSW to mock your backend response]("https://www.youtube.com/watch?v=v77fjkKQTH0&t=1s")
