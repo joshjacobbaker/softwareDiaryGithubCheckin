@@ -113,3 +113,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Jest TypeScript Code Coverage]("https://about.codecov.io/blog/measuring-typescript-code-coverage-with-jest-and-github-actions/")
 [Optimistic Update, Update, Cache.Modify, Cache.Evict]("")
 [Jest Testing Custom React Hooks]("https://www.youtube.com/watch?v=qRw3qKRBW4M")
+[Mocking Asynchronous API Calls]("https://www.youtube.com/watch?v=gA-uNj2FgdM")
