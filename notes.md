@@ -118,3 +118,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Pesticide Chrome Extension for FrontEnd Development]("https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi")
 [MUI sx for styles and prop styles too]("")
 [React Hook Form validate object ]("")
+[Initiative, Epic, Story, Subtask]("https://www.atlassian.com/agile/project-management/epics-stories-themes")
