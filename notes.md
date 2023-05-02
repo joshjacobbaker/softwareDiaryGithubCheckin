@@ -119,3 +119,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [MUI sx for styles and prop styles too]("")
 [React Hook Form validate object ]("")
 [Initiative, Epic, Story, Subtask]("https://www.atlassian.com/agile/project-management/epics-stories-themes")
+[Ken Dodds React Testing Library Best Practices]("https://kentcdodds.com/blog/common-mistakes-with-react-testing-library")
