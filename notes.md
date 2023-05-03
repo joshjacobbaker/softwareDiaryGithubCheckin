@@ -120,3 +120,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [React Hook Form validate object ]("")
 [Initiative, Epic, Story, Subtask]("https://www.atlassian.com/agile/project-management/epics-stories-themes")
 [Ken Dodds React Testing Library Best Practices]("https://kentcdodds.com/blog/common-mistakes-with-react-testing-library")
+[next - 18n translation]("https://blog.flycode.com/step-by-step-how-to-internationalize-your-nextjs-app-with-next-translate")
