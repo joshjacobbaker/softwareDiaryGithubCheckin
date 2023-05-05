@@ -122,3 +122,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Ken Dodds React Testing Library Best Practices]("https://kentcdodds.com/blog/common-mistakes-with-react-testing-library")
 [next - 18n translation]("https://blog.flycode.com/step-by-step-how-to-internationalize-your-nextjs-app-with-next-translate")
 [useReactiveVar Apollo Global State]("")
+[MUI Palette, Typography, Spacing, Breakpoints, ZIndex, transitions, Components--Theme Configuration Variables]("https://mui.com/material-ui/customization/theming/")
