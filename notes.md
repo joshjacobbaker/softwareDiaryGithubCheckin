@@ -123,3 +123,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [next - 18n translation]("https://blog.flycode.com/step-by-step-how-to-internationalize-your-nextjs-app-with-next-translate")
 [useReactiveVar Apollo Global State]("")
 [MUI Palette, Typography, Spacing, Breakpoints, ZIndex, transitions, Components--Theme Configuration Variables]("https://mui.com/material-ui/customization/theming/")
+[import { ThemeProvider, createTheme } from '@mui/material/styles';]("")
