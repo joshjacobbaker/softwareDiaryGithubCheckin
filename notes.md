@@ -125,3 +125,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [MUI Palette, Typography, Spacing, Breakpoints, ZIndex, transitions, Components--Theme Configuration Variables]("https://mui.com/material-ui/customization/theming/")
 [import { ThemeProvider, createTheme } from '@mui/material/styles';]("")
 ["&:hover":{backgroundColor: "yellow"} -- pass this into the sx prop within MUI components to provide a hover effect]("")
+[sx={"& .MuiDrawer-paper": {color: "red"}}]("https://www.youtube.com/watch?v=uLSE7WtcrP0&list=PLDxCaNaYIuUlG5ZqoQzFE27CUOoQvOqnQ&index=2")
