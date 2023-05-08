@@ -126,3 +126,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [import { ThemeProvider, createTheme } from '@mui/material/styles';]("")
 ["&:hover":{backgroundColor: "yellow"} -- pass this into the sx prop within MUI components to provide a hover effect]("")
 [sx={"& .MuiDrawer-paper": {color: "red"}}]("https://www.youtube.com/watch?v=uLSE7WtcrP0&list=PLDxCaNaYIuUlG5ZqoQzFE27CUOoQvOqnQ&index=2")
+[Passing Components as props, passing styles as props, storying styles in javascript objects]("https://www.youtube.com/watch?v=4h-VWmlfJh4&list=PLDxCaNaYIuUlG5ZqoQzFE27CUOoQvOqnQ&index=6")
