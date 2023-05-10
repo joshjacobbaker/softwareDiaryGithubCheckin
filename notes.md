@@ -128,3 +128,5 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [sx={"& .MuiDrawer-paper": {color: "red"}}]("https://www.youtube.com/watch?v=uLSE7WtcrP0&list=PLDxCaNaYIuUlG5ZqoQzFE27CUOoQvOqnQ&index=2")
 [Passing Components as props, passing styles as props, storying styles in javascript objects]("https://www.youtube.com/watch?v=4h-VWmlfJh4&list=PLDxCaNaYIuUlG5ZqoQzFE27CUOoQvOqnQ&index=6")
 [Theme Components, root, sx has highest specificity]("https://mui.com/material-ui/customization/theme-components/")
+[Mui custom theme, overwrite styles]("https://www.youtube.com/watch?v=xIIJfmDnvPE")
+[Mui custom classes, apply styles]("https://www.youtube.com/watch?v=sTdt2cJS2dg")
