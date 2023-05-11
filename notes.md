@@ -130,3 +130,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Theme Components, root, sx has highest specificity]("https://mui.com/material-ui/customization/theme-components/")
 [Mui custom theme, overwrite styles]("https://www.youtube.com/watch?v=xIIJfmDnvPE")
 [Mui custom classes, apply styles]("https://www.youtube.com/watch?v=sTdt2cJS2dg")
+[Javascript Execution Context, Call Stack, and thread]("https://www.youtube.com/watch?v=exrc_rLj5iw")
