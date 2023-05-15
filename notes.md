@@ -133,3 +133,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Javascript Execution Context, Call Stack, and thread]("https://www.youtube.com/watch?v=exrc_rLj5iw")
 [Mui grid container, items, xs, sm, md, etc. ]("https://www.youtube.com/watch?v=GYTN5JdkLSQ&list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58&index=10")
 [Turning NextJS into a SPA -- using React-Router-Dom with NextJS]("https://colinhacks.com/essays/building-a-spa-with-nextjs")
+[React Router Tutorial Net Ninja]("https://www.youtube.com/watch?v=OMQ2QARHPo0&list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf")
