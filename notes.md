@@ -137,3 +137,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [React Router Loaders which are very similar to NextJs getServerSideProps -- will make HTTP request and return data in component]("https://www.youtube.com/watch?v=K-bxVELldCc&list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf&index=6&pp=iAQB")
 [MUI, React-Hook-Form, Integration]("https://www.youtube.com/watch?v=sD9fZxMO1us&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&index=31")
 [MUI Select w/ React Hook Form]("https://stackblitz.com/edit/react-hook-form-mui-select?file=index.js")
+[react hook form: watch, getValues, setValues]("")
