@@ -139,3 +139,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [MUI Select w/ React Hook Form]("https://stackblitz.com/edit/react-hook-form-mui-select?file=index.js")
 [react hook form: watch, getValues, setValues]("")
 [React Testing Library: getByRole, getByTestId, getByText -- render component, expect assertion, clean-up hooks]("")
+[Test coverage report, over a certain percentage, pipeline won't pass]("")
