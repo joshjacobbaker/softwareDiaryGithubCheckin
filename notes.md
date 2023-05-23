@@ -140,3 +140,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [react hook form: watch, getValues, setValues]("")
 [React Testing Library: getByRole, getByTestId, getByText -- render component, expect assertion, clean-up hooks]("")
 [Test coverage report, over a certain percentage, pipeline won't pass]("")
+[Typescript Type Narrowing with if-else checks or renaming a value as a new variable with 'as' 'interface']("")
