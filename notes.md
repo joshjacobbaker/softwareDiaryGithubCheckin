@@ -141,3 +141,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [React Testing Library: getByRole, getByTestId, getByText -- render component, expect assertion, clean-up hooks]("")
 [Test coverage report, over a certain percentage, pipeline won't pass]("")
 [Typescript Type Narrowing with if-else checks or renaming a value as a new variable with 'as' 'interface']("")
+[jest Setup with jest-dom and jest-extend, so it doesn't need to be imported in every test]("")
