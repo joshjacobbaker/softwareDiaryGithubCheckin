@@ -142,3 +142,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Test coverage report, over a certain percentage, pipeline won't pass]("")
 [Typescript Type Narrowing with if-else checks or renaming a value as a new variable with 'as' 'interface']("")
 [jest Setup with jest-dom and jest-extend, so it doesn't need to be imported in every test]("")
+[event.target.value is a string -- you have to cast the type if you want it to be a different type -- const booleanValue = event.target.value === 'true' ? true : false]("")
