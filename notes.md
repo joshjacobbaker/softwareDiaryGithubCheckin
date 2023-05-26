@@ -143,3 +143,5 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Typescript Type Narrowing with if-else checks or renaming a value as a new variable with 'as' 'interface']("")
 [jest Setup with jest-dom and jest-extend, so it doesn't need to be imported in every test]("")
 [event.target.value is a string -- you have to cast the type if you want it to be a different type -- const booleanValue = event.target.value === 'true' ? true : false]("")
+[getBy* for sync, findBy* for async, queryBy\* for null values]("")
+[fireEvent, userEvent for dom events in JEST DOM environment]("")
