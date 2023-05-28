@@ -146,3 +146,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [getBy* for sync, findBy* for async, queryBy\* for null values]("")
 [fireEvent, userEvent for dom events in JEST DOM environment]("")
 [need to get more familiar with MUI Components and it's types]("")
+[Apollo GraphQL and it's API services share a strong typing -- they have to match and return exact data]("")
