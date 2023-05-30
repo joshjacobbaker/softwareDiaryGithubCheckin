@@ -147,3 +147,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [fireEvent, userEvent for dom events in JEST DOM environment]("")
 [need to get more familiar with MUI Components and it's types]("")
 [Apollo GraphQL and it's API services share a strong typing -- they have to match and return exact data]("")
+[GraphQL TypeDefs & Resolvers]("")
