@@ -149,3 +149,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Apollo GraphQL and it's API services share a strong typing -- they have to match and return exact data]("")
 [GraphQL TypeDefs & Resolvers]("")
 [Jest Test Describe block with multiple it/test blocks to describe different assertions amongst a common describe block theme]("")
+[Yup and Zod and RHF validation for form fields]("")
