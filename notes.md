@@ -151,3 +151,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Jest Test Describe block with multiple it/test blocks to describe different assertions amongst a common describe block theme]("")
 [Yup and Zod and RHF validation for form fields]("")
 [Send form validation criteria from the graphql backend to the frontend and implement in form field validation]("")
+[GraphQL Super graph, sub graph, Node App, ApolloGraphQl]("")
