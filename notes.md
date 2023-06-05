@@ -153,3 +153,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Send form validation criteria from the graphql backend to the frontend and implement in form field validation]("")
 [GraphQL Super graph, sub graph, Node App, ApolloGraphQl]("")
 [Graphql: resolvers, mutations, queries, typeDefs, types, graphql schema, graphql server, graph remove all graph data when removing a user]("")
+[GraphQL Resolvers: Query, Mutation, Subscription]("")
