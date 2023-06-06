@@ -154,3 +154,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [GraphQL Super graph, sub graph, Node App, ApolloGraphQl]("")
 [Graphql: resolvers, mutations, queries, typeDefs, types, graphql schema, graphql server, graph remove all graph data when removing a user]("")
 [GraphQL Resolvers: Query, Mutation, Subscription]("")
+[Form validation, front-end string parsing-trimming, back-end string parsing-trimming]("")
