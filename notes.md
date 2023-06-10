@@ -156,3 +156,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [GraphQL Resolvers: Query, Mutation, Subscription]("")
 [Form validation, front-end string parsing-trimming, back-end string parsing-trimming]("")
 [Mock Apollo Graphql query with Jest]("")
+[Identify uncovered lines and cover them with code -- target low hanging fruit, boolean cases, and big blocks of code]("")
