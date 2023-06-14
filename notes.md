@@ -158,3 +158,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Mock Apollo Graphql query with Jest]("")
 [Identify uncovered lines and cover them with code -- target low hanging fruit, boolean cases, and big blocks of code]("")
 [Apollo GraphQL Mock onSuccess, onError callbacks]("")
+[nx generate component]("")
