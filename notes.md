@@ -159,3 +159,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Identify uncovered lines and cover them with code -- target low hanging fruit, boolean cases, and big blocks of code]("")
 [Apollo GraphQL Mock onSuccess, onError callbacks]("")
 [nx generate component]("")
+[mui sx for custom css as well as {sx: "", md: ""} responsive design]("")
