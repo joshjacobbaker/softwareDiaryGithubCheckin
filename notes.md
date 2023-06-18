@@ -163,3 +163,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Resolve merge conflicts in new branch and merge back changes]("")
 [React Hook Form Controller component wrapping a Library Select DropDown Component to pass it props]("")
 [Keep patterns consistent]("")
+[Monorepo app boundaries?]("")
