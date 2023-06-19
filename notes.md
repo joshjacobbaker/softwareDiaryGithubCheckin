@@ -164,3 +164,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [React Hook Form Controller component wrapping a Library Select DropDown Component to pass it props]("")
 [Keep patterns consistent]("")
 [Monorepo app boundaries?]("")
+[Package.json, nx.json, project.json -- provides command line executable programs with option flags]("")
