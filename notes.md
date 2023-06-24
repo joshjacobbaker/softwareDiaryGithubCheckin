@@ -166,3 +166,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Monorepo app boundaries?]("")
 [Package.json, nx.json, project.json -- provides command line executable programs with option flags]("")
 [Api-Gateway, Apollo GraphQL server, API Server]("")
+[Accessibility and analytics]("")
