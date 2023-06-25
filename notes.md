@@ -167,3 +167,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Package.json, nx.json, project.json -- provides command line executable programs with option flags]("")
 [Api-Gateway, Apollo GraphQL server, API Server]("")
 [Accessibility and analytics]("")
+[Aria-label, semantic html, screen reader - voice over]("")
