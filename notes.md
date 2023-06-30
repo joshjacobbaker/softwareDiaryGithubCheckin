@@ -168,3 +168,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Api-Gateway, Apollo GraphQL server, API Server]("")
 [Accessibility and analytics]("")
 [Aria-label, semantic html, screen reader - voice over]("")
+[MUI Typography variant styling "H1", "body2Primary", etc.]("")
