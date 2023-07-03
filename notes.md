@@ -169,3 +169,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Accessibility and analytics]("")
 [Aria-label, semantic html, screen reader - voice over]("")
 [MUI Typography variant styling "H1", "body2Primary", etc.]("")
+[useMutation, mutation, graphql variables $name, callBack, array destructured with callback and formField object]("")
