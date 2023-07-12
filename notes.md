@@ -170,3 +170,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Aria-label, semantic html, screen reader - voice over]("")
 [MUI Typography variant styling "H1", "body2Primary", etc.]("")
 [useMutation, mutation, graphql variables $name, callBack, array destructured with callback and formField object]("")
+[yup resolver, send analytics, modals, context, provider, z-index, nextjs page routes, query params, graphql mutations and queries and subscriptions, jest tests with react testing library]("")
