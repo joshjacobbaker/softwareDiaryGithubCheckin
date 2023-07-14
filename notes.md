@@ -172,3 +172,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [useMutation, mutation, graphql variables $name, callBack, array destructured with callback and formField object]("")
 [yup resolver, send analytics, modals, context, provider, z-index, nextjs page routes, query params, graphql mutations and queries and subscriptions, jest tests with react testing library]("")
 [Don't re-render a context.provider, else it'll reset the context on every re-render]("")
+[Data Normalization "harmonization" foreign-keys in different systems to match to integrate to standardize]("")
