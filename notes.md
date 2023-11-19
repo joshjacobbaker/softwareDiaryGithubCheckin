@@ -174,3 +174,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Don't re-render a context.provider, else it'll reset the context on every re-render]("")
 [Data Normalization "harmonization" foreign-keys in different systems to match to integrate to standardize]("")
 [Kent C Dodds recommends the Remix framework over nextjs]("")
+[React Native and Expo and Android Studio]("")
