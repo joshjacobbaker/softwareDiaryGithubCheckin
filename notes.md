@@ -175,3 +175,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Data Normalization "harmonization" foreign-keys in different systems to match to integrate to standardize]("")
 [Kent C Dodds recommends the Remix framework over nextjs]("")
 [React Native and Expo and Android Studio]("")
+[React Navigation Stack and React Navigation Drawer]("")
