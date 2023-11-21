@@ -176,3 +176,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Kent C Dodds recommends the Remix framework over nextjs]("")
 [React Native and Expo and Android Studio]("")
 [React Navigation Stack and React Navigation Drawer]("")
+[React Native CLI vs Expo]("")
