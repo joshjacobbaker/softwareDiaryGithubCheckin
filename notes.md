@@ -179,3 +179,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [React Native CLI vs Expo]("")
 [Google Maps API, Google Places Api, Google Route API]("")
 [Microservices Patterns]("")
+[functional programming pipe vs compose]("")
