@@ -181,3 +181,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Microservices Patterns]("")
 [functional programming pipe vs compose]("")
 [CSS styling specificity]("")
+[Position: relative, fixed, absolute, sticky and z-index and html order -- preceding elements will be above former elements]("")
