@@ -182,3 +182,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [functional programming pipe vs compose]("")
 [CSS styling specificity]("")
 [Position: relative, fixed, absolute, sticky and z-index and html order -- preceding elements will be above former elements]("")
+[Pub Sub RabbitMQ, kafka, etc. producer and consumer; Proxy Nginx; Gateway for authorization and authentication; ]("")
