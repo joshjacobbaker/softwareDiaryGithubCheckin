@@ -183,3 +183,5 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [CSS styling specificity]("")
 [Position: relative, fixed, absolute, sticky and z-index and html order -- preceding elements will be above former elements]("")
 [Pub Sub RabbitMQ, kafka, etc. producer and consumer; Proxy Nginx; Gateway for authorization and authentication; ]("")
+[Android Studio]("https://developer.android.com/studio")
+[Expo React Native]("https://docs.expo.dev/")
