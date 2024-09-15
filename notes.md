@@ -185,3 +185,7 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Pub Sub RabbitMQ, kafka, etc. producer and consumer; Proxy Nginx; Gateway for authorization and authentication; ]("")
 [Android Studio]("https://developer.android.com/studio")
 [Expo React Native]("https://docs.expo.dev/")
+[ChatGpt3]("https://openai.com/chatgpt/")
+[Github CoPilot]("https://github.com/features/copilot")
+[TailwindCss Design System in Figma]("https://www.figma.com/community/file/768809027799962739/tailwind-css-ui")
+[Expo Eas Dashboard for Android & Ios builds]("https://expo.dev/accounts/josh.jacob.baker")
