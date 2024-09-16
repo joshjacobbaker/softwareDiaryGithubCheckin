@@ -189,3 +189,4 @@ Ctrl + SpaceBar will bring up VScode intellisense
 [Github CoPilot]("https://github.com/features/copilot")
 [TailwindCss Design System in Figma]("https://www.figma.com/community/file/768809027799962739/tailwind-css-ui")
 [Expo Eas Dashboard for Android & Ios builds]("https://expo.dev/accounts/josh.jacob.baker")
+[Reduce the size of your expo app]("https://www.youtube.com/watch?v=dceRCqgytJw")
